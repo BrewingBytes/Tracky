@@ -1,0 +1,7 @@
+'Workflow':
+- changed-files:
+  - any-glob-to-any-file: '.github/workflows/**'
+
+'UI':
+- changed-files:
+  - any-glob-to-any-file: 'src/**'
