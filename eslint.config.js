@@ -16,7 +16,7 @@ export default [
 
   ...pluginVue.configs['flat/essential'],
   ...vueTsEslintConfig(),
-  oxlint.configs['flat/recommended'],
+  ...oxlint.configs['flat/recommended'],
   skipFormatting,
   
   {
