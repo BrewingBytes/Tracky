@@ -609,26 +609,26 @@
   resolved "https://registry.yarnpkg.com/@primeuix/utils/-/utils-0.5.1.tgz#7bca8a849f1d4d050f4d6a4bb8a179d0b0c2e99f"
   integrity sha512-/bYirtF3gJOGrRQfQ5tUyQOLEria7wg/UCqvpIydTAxLmj/UWgWwh2kAjYVp49eldm1+2sk4+TDkbAz8XcPpew==
 
-"@primevue/core@4.3.2":
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/@primevue/core/-/core-4.3.2.tgz#d5c28f4ad420afe9ae3b4d30f549ccd671e57746"
-  integrity sha512-8ghF6PdYKw77rLFZRl8C8kLHMKFMPg8f7xiPQIvLG0Cxl+FKsBrGp0xQxnEXsp2+6NX3Pv1jysrQjxSnuufz4w==
+"@primevue/core@4.3.3":
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/@primevue/core/-/core-4.3.3.tgz#aa51762bfb2c781e6ae843168b1bbcf44f8c2e5d"
+  integrity sha512-kSkN5oourG7eueoFPIqiNX3oDT/f0I5IRK3uOY/ytz+VzTZp5yuaCN0Nt42ZQpVXjDxMxDvUhIdaXVrjr58NhQ==
   dependencies:
     "@primeuix/styled" "^0.5.0"
     "@primeuix/utils" "^0.5.1"
 
-"@primevue/icons@4.3.2":
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/@primevue/icons/-/icons-4.3.2.tgz#5870968ea7bfcd4eb5c6e9b9b60ce490301783da"
-  integrity sha512-sT9MZQ7GNmi/pfpMFdHejt3s3Q5kIN6pV/xi5n21KbpQsgsXnQBYq/fyx+sfKvbUfDvYYIpKDSWXj6RYR3zIdw==
+"@primevue/icons@4.3.3":
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/@primevue/icons/-/icons-4.3.3.tgz#840f015a633a48677d7cff449e0769f7c5aad4ad"
+  integrity sha512-ouQaxHyeFB6MSfEGGbjaK5Qv9efS1xZGetZoU5jcPm090MSYLFtroP1CuK3lZZAQals06TZ6T6qcoNukSHpK5w==
   dependencies:
     "@primeuix/utils" "^0.5.1"
-    "@primevue/core" "4.3.2"
+    "@primevue/core" "4.3.3"
 
-"@primevue/themes@^4.3.2":
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/@primevue/themes/-/themes-4.3.2.tgz#c420d85c857da50b65817b7d489202bfa114f52c"
-  integrity sha512-Rw+8S1Mcg4ZsozOxSX00VpzQTEilAltTNdEn49lIH/4dUZeRu1OkxCxc3YUI5DftgJiN1frGHIEO4rzUdhbCBA==
+"@primevue/themes@^4.3.3":
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/@primevue/themes/-/themes-4.3.3.tgz#32c034c0fb014e7e083fb2e7a176fd5aa75d347e"
+  integrity sha512-LiYlSXsHeA8DFm8+yGyiDFQc3SEQwHcESTN1/rV+rrZ+UPuPisHY9fNIGRFQKA5XUQPDTQDQjtwYGx25Jikwhg==
   dependencies:
     "@primeuix/styled" "^0.5.0"
     "@primeuix/themes" "^1.0.0"
@@ -762,10 +762,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.15.tgz#596a1747233694d50f6ad8a7869fcb6f56cf5841"
   integrity sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==
 
-"@types/node@^22.13.13":
-  version "22.13.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.13.13.tgz#5e7d110fb509b0d4a43fbf48fa9d6e0f83e1b1e7"
-  integrity sha512-ClsL5nMwKaBRwPcCvH8E7+nU4GxHVx1axNvMZTFHMEfNI7oahimt26P5zjVCRrjiIWj6YFXfE1v3dEp94wLcGQ==
+"@types/node@^22.13.14":
+  version "22.13.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.13.14.tgz#70d84ec91013dcd2ba2de35532a5a14c2b4cc912"
+  integrity sha512-Zs/Ollc1SJ8nKUAgc7ivOEdIBM8JAKgrqqUYi2J997JuKO7/tpQC+WCetQ1sypiKCQWHdvdg9wBNpUPEWZae7w==
   dependencies:
     undici-types "~6.20.0"
 
@@ -2100,16 +2100,16 @@ pretty-ms@^9.0.0:
   dependencies:
     parse-ms "^4.0.0"
 
-primevue@^4.3.2:
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/primevue/-/primevue-4.3.2.tgz#8a4ea17258e22c251f78dd15050dd623d115fe75"
-  integrity sha512-TCCLu66k0pW8LmL8ho4w8evPEwc1agCP4ojY5OIsr2pqYepzBqlsSP2GSSv+Kv5EwWqg4ufh0bor+XVJl9sIVw==
+primevue@^4.3.3:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/primevue/-/primevue-4.3.3.tgz#b7f5cba49c20eb4a644521062752b57996042b28"
+  integrity sha512-nooYVoEz5CdP3EhUkD6c3qTdRmpLHZh75fBynkUkl46K8y5rksHTjdSISiDijwTA5STQIOkyqLb+RM+HQ6nC1Q==
   dependencies:
     "@primeuix/styled" "^0.5.0"
     "@primeuix/styles" "^1.0.0"
     "@primeuix/utils" "^0.5.1"
-    "@primevue/core" "4.3.2"
-    "@primevue/icons" "4.3.2"
+    "@primevue/core" "4.3.3"
+    "@primevue/icons" "4.3.3"
 
 punycode@^2.1.0:
   version "2.3.1"
@@ -2398,10 +2398,10 @@ vite-plugin-vue-inspector@^5.3.1:
     kolorist "^1.8.0"
     magic-string "^0.30.4"
 
-vite@^6.2.3:
-  version "6.2.3"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-6.2.3.tgz#249e92d32886981ab46bc1f049ac72abc6fa81e2"
-  integrity sha512-IzwM54g4y9JA/xAeBPNaDXiBF8Jsgl3VBQ2YQ/wOY6fyW3xMdSoltIV3Bo59DErdqdE6RxUfv8W69DvUorE4Eg==
+vite@^6.2.4:
+  version "6.2.4"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-6.2.4.tgz#05809de3f918fded87f73a838761995a4d66a680"
+  integrity sha512-veHMSew8CcRzhL5o8ONjy8gkfmFJAd5Ac16oxBUjlwgX3Gq2Wqr+qNC3TjPIpy7TPV/KporLga5GT9HqdrCizw==
   dependencies:
     esbuild "^0.25.0"
     postcss "^8.5.3"
